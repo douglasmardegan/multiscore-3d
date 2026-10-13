@@ -18,7 +18,7 @@ A solução substitui métricas visuais subjetivas por perfilometria tridimensio
 - **Operação Offline-First:** Armazenamento local de avaliações com sincronização assíncrona para ambientes de granja com conectividade restrita.
 - **Estrutura de Campo Sanitizável:** Projeto ergonômico vedado, resistente a agentes de desinfecção e rotinas agrícolas.
 
-- 🔒 Propriedade Intelectual & Confidencialidade
+## 🔒 Propriedade intelectual & confidencialidade
 Este repositório contém código e lógica de negócios estritamente confidenciais.
 Os modelos de calibração, algoritmos de regressão e parâmetros de conversão nutricional são proprietários.
 A reprodução, distribuição ou engenharia reversa sem autorização prévia é estritamente proibida. Todos os direitos reservados.
