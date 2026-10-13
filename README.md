@@ -1,4 +1,4 @@
-# MultiScore 3D — Smart Livestock Scoring System 🌾🐖
+# MultiScore 3D — Smart Livestock Scoring System
 
 > *A precisão na palma da sua mão.*
 
