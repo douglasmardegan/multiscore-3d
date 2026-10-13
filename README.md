@@ -6,7 +6,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Embedded%20C%2B%2B-orange.svg)](#)
 [![License](https://img.shields.io/badge/License-Confidential-red.svg)](#-propriedade-intelectual)
 
-*Read this document in [English](README.en.md).*****
+*Read this document in [English](README.en.md).*
 
 O **MultiScore 3D** é um sistema embarcado portátil projetado para a automação e padronização do Escore de Condição Corporal (ECC) e mensuração da curvatura dorsal em matrizes suínas.
 
