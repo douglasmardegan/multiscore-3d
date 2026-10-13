@@ -6,26 +6,20 @@
 [![Framework](https://img.shields.io/badge/Framework-Embedded%20C%2B%2B-orange.svg)](#)
 [![License](https://img.shields.io/badge/License-Confidential-red.svg)](#-propriedade-intelectual)
 
-<div align="justify">
-O **MultiScore 3D** é um sistema embarcado portátil projetado para a automação e padronização do Escore de Condição Corporal (ECC) e mensuração da curvatura dorsal em matrizes suínas. 
+O **MultiScore 3D** é um sistema embarcado portátil projetado para a automação e padronização do Escore de Condição Corporal (ECC) e mensuração da curvatura dorsal em matrizes suínas.
 
 A solução substitui métricas visuais subjetivas por perfilometria tridimensional e validação espacial contínua, permitindo a integração de dados biométricos em tempo real com programas de nutrição de precisão.
-</div>
 
-## 🚀 Funcionalidades principais
+## 🚀 Funcionalidades Principais
 
-<div align="justify">
 - **Perfilometria Dorsal Não Invasiva:** Mapeamento geométrico tridimensional do relevo anatômico sem contato físico com o animal.
 - **Validação de Alinhamento em Tempo Real:** Filtro espacial inercial que garante a captura apenas quando o dispositivo está perfeitamente nivelado e perpendicular.
 - **Interface HMI Inteligente:** Indicação visual e sonora imediata para suporte à tomada de decisão rápida no corredor de manejo.
 - **Operação Offline-First:** Armazenamento local de avaliações com sincronização assíncrona para ambientes de granja com conectividade restrita.
 - **Estrutura de Campo Sanitizável:** Projeto ergonômico vedado, resistente a agentes de desinfecção e rotinas agrícolas.
-</div>
 
-## 🔒 Propriedade intelectual & confidencialidade
+## 🔒 Propriedade Intelectual & Confidencialidade
 
-<div align="justify">
 - Este repositório contém código e lógica de negócios estritamente confidenciais.
 - Os modelos de calibração, algoritmos de regressão e parâmetros de conversão nutricional são proprietários.
 - A reprodução, distribuição ou engenharia reversa sem autorização prévia é estritamente proibida. Todos os direitos reservados.
-</div>
