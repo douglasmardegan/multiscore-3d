@@ -4,7 +4,8 @@
 
 [![Status](https://img.shields.io/badge/Status-Proprietary%20Dev-blue.svg)](#-intellectual-property--confidentiality)
 [![Framework](https://img.shields.io/badge/Framework-Embedded%20C%2B%2B-orange.svg)](#)
-[![License](https://img.shields.io/badge/Licen%C3%A7a-Todos%20os%20Direitos%20Reservados-red.svg)](#-propriedade-intelectual)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](#-intellectual-property)
+
 
 *Read this document in [Português](README.md).*
 
