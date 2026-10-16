@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Proprietary%20Dev-blue.svg)](#-propriedade-intelectual)
 [![Framework](https://img.shields.io/badge/Framework-Embedded%20C%2B%2B-orange.svg)](#)
-[![License](https://img.shields.io/badge/License-Confidential-red.svg)](#-propriedade-intelectual)
+[![License](https://img.shields.io/badge/Licen%C3%A7a-Todos%20os%20Direitos%20Reservados-red.svg)](#-propriedade-intelectual)
 
 *Read this document in [English](README.en.md).*
 
@@ -13,15 +13,18 @@ O **MultiScore 3D** é um sistema embarcado portátil projetado para a automaç�
 A solução substitui métricas visuais subjetivas por perfilometria tridimensional e validação espacial contínua, permitindo a integração de dados biométricos em tempo real com programas de nutrição de precisão.
 
 ## 🚀 Funcionalidades principais
+## 🚀 Funcionalidades Principais
 
-- **Perfilometria Dorsal Não Invasiva:** Mapeamento geométrico tridimensional do relevo anatômico sem contato físico com o animal.
-- **Validação de Alinhamento em Tempo Real:** Filtro espacial inercial que garante a captura apenas quando o dispositivo está perfeitamente nivelado e perpendicular.
-- **Interface HMI Inteligente:** Indicação visual e sonora imediata para suporte à tomada de decisão rápida no corredor de manejo.
-- **Operação Offline-First:** Armazenamento local de avaliações com sincronização assíncrona para ambientes de granja com conectividade restrita.
-- **Estrutura de Campo Sanitizável:** Projeto ergonômico vedado, resistente a agentes de desinfecção e rotinas agrícolas.
+- **Perfilometria dorsal não invasiva 3D:** Mapeamento geométrico tridimensional do relevo anatômico via matrizes ToF (*Time-of-Flight*) sem contato físico ou estresse ao animal.
+- **Validação espacial em tempo real:** Filtro inercial (IMU) e correção angular que garantem capturas precisas e descartam leituras fora dos limiares de tolerância.
+- **Filtragem inteligente de ambientes (Oclusão):** Algoritmo de filtragem espacial capaz de isolar o dorso do animal e descartar automaticamente interferências de barras metálicas de gaiolas e pisos ripados.
+- **Suporte a 5 níveis de manejo nutricional:** Categorização biométrica direta alinhada às réguas das caixas dosadoras do galpão de gestação/maternidade.
+- **Interface HMI inteligente:** Indicação visual e sonora imediata para suporte à tomada de decisão rápida no corredor de manejo.
+- **Arquitetura *Offline-First*:** Armazenamento local de avaliações com sincronização assíncrona via *Bluetooth Low Energy* para ambientes sem conectividade Wi-Fi.
+- **Estrutura de campo sanitizável:** Projeto ergonômico vedado, resistente a agentes de desinfecção e rotinas severas do ambiente agrícola.
 
-## 🔒 Propriedade intelectual & confidencialidade
+## 🔒 Propriedade Intelectual & Direitos de Autor
 
-- Este repositório contém código e lógica de negócios estritamente confidenciais.
-- Os modelos de calibração, algoritmos de regressão e parâmetros de conversão nutricional são proprietários.
-- A reprodução, distribuição ou engenharia reversa sem autorização prévia é estritamente proibida. Todos os direitos reservados.
+- **Uso restrito:** Este repositório é disponibilizado publicamente apenas para fins de demonstração acadêmica e portfólio técnico.
+- **Direitos reservados:** Os modelos de calibração, algoritmos de regressão e lógica de negócios são de propriedade exclusiva do autor.
+- **Licenciamento:** A reprodução, redistribuição, engenharia reversa ou uso comercial do código e esquemáticos sem autorização prévia por escrito é estritamente proibida.
