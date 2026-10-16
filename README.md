@@ -12,7 +12,7 @@ O **MultiScore 3D** é um sistema embarcado portátil projetado para a automaç�
 
 A solução substitui métricas visuais subjetivas por perfilometria tridimensional e validação espacial contínua, permitindo a integração de dados biométricos em tempo real com programas de nutrição de precisão.
 
-## 🚀 Funcionalidades Principais
+## 🚀 Funcionalidades principais
 
 - **Perfilometria dorsal não invasiva 3D:** Mapeamento geométrico tridimensional do relevo anatômico via matrizes ToF (*Time-of-Flight*) sem contato físico ou estresse ao animal.
 - **Validação espacial em tempo real:** Filtro inercial (IMU) e correção angular que garantem capturas precisas e descartam leituras fora dos limiares de tolerância.
@@ -22,7 +22,7 @@ A solução substitui métricas visuais subjetivas por perfilometria tridimensio
 - **Arquitetura *Offline-First*:** Armazenamento local de avaliações com sincronização assíncrona via *Bluetooth Low Energy* para ambientes sem conectividade Wi-Fi.
 - **Estrutura de campo sanitizável:** Projeto ergonômico vedado, resistente a agentes de desinfecção e rotinas severas do ambiente agrícola.
 
-## 🔒 Propriedade Intelectual & Direitos de Autor
+## 🔒 Propriedade intelectual & direitos de autor
 
 - **Uso restrito:** Este repositório é disponibilizado publicamente apenas para fins de demonstração acadêmica e portfólio técnico.
 - **Direitos reservados:** Os modelos de calibração, algoritmos de regressão e lógica de negócios são de propriedade exclusiva do autor.
