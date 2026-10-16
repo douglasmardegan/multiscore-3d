@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Proprietary%20Dev-blue.svg)](#-intellectual-property--confidentiality)
 [![Framework](https://img.shields.io/badge/Framework-Embedded%20C%2B%2B-orange.svg)](#)
-[![License](https://img.shields.io/badge/License-Confidential-red.svg)](#-intellectual-property--confidentiality)
+[![License](https://img.shields.io/badge/Licen%C3%A7a-Todos%20os%20Direitos%20Reservados-red.svg)](#-propriedade-intelectual)
 
 *Read this document in [Português](README.md).*
 
@@ -16,14 +16,16 @@ The solution replaces subjective visual assessment with 3D profilometry and cont
 
 ## 🚀 Key features
 
-- **Non-Invasive Dorsal Profilometry:** 3D geometric mapping of anatomical surface contours without physical contact with the animal.
-- **Real-Time Alignment Validation:** Inertial spatial filter ensuring data capture only when the device is perfectly level and perpendicular.
-- **Smart HMI Interface:** Immediate visual and haptic/auditory feedback supporting fast decision-making in barn alleyways.
-- **Offline-First Operation:** Local evaluation storage with asynchronous synchronization for farm environments with limited connectivity.
-- **Sanitizable Field-Ready Enclosure:** Ergonomic, sealed design resistant to agricultural disinfection routines and harsh barn conditions.
+- **Non-Invasive 3D Dorsal Profilometry:** Three-dimensional surface mapping via matrix *Time-of-Flight* (ToF) sensors with zero physical contact or animal stress.
+- **Real-Time Spatial Validation:** Inertial filtering and orientation checks ensuring high-precision data capture while rejecting misaligned readings.
+- **Smart Environmental Filtering (Occlusion):** Spatial algorithm designed to isolate the dorsal contour while filtering out metallic crate bars and slatted flooring.
+- **5-Level Precision Nutrition Support:** Direct biometric classification matching standard barn feeder adjustment scales.
+- **Smart HMI Interface:** Instant visual and haptic/auditory feedback for immediate decision-making in barn alleyways.
+- **Offline-First Architecture:** On-board data storage with asynchronous *Bluetooth Low Energy* sync for connectivity-restricted farm environments.
+- **Sanitizable Field-Ready Enclosure:** Ergonomic and sealed design resistant to agricultural disinfection routines and harsh barn conditions.
 
-## 🔒 Intellectual property & confidentiality
+## 🔒 Intellectual property & copyright
 
-- This repository contains strictly confidential business logic and embedded code.
-- Calibration models, regression algorithms, and nutritional conversion parameters are proprietary.
-- Unauthorized reproduction, distribution, or reverse engineering is strictly prohibited. All rights reserved.
+- **Restricted use:** This repository is made public solely for academic demonstration and technical portfolio purposes.
+- **All rights reserved:** Calibration models, regression algorithms, and embedded business logic are the exclusive property of the author.
+- **Licensing:** Unauthorized reproduction, commercial distribution, or reverse engineering of this software and hardware design is strictly prohibited.
